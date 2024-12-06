@@ -1,6 +1,6 @@
-# Hi there, I'm [Your Name] 👋
+# Hi there, I'm [Akshay Kumar P] 👋
 
-Welcome to my GitHub profile! I'm a [Your Profession/Role] passionate about [What you are passionate about, e.g., coding, building software, solving problems].
+Welcome to my GitHub profile! I'm a passionate student about Computer Scince
 
 ## 🔭 Currently working on
 
@@ -33,8 +33,6 @@ Welcome to my GitHub profile! I'm a [Your Profession/Role] passionate about [Wha
 
 ## ⚡ Fun Facts
 
-- I love learning new programming languages and frameworks!
-- I enjoy contributing to open-source projects.
-- In my free time, I like to [hobbies/interests].
+
 
 Feel free to explore my repositories and reach out if you're interested in collaborating or just want to chat about tech! 😊
