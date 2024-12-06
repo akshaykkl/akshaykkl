@@ -1,38 +1,36 @@
-# Hi there, I'm [Akshay Kumar P] 👋
+<h1 align="center">
+ Hii..
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+ I'am Akshay
+<h3 align="left">🌐 Connect with me 👇</h3>
 
-Welcome to my GitHub profile! I'm a passionate student about Computer Scince
-
-## 🔭 Currently working on
-
-- [Project 1](link_to_project): A brief description of the project.
-- [Project 2](link_to_project): A brief description of the project.
-
-## 🌱 Currently learning
-
-- [Technology/Language 1](link_to_resources): Description of what you're learning.
-- [Technology/Language 2](link_to_resources): Description of what you're learning.
-
-## 👯 How to reach me
-
-- 📧 Email: [Your Email](mailto:your-email@example.com)
-- 🌐 Website/Blog: [Your Website](https://your-website.com)
-- 💬 Twitter: [@YourHandle](https://twitter.com/YourHandle)
-- 🔗 LinkedIn: [Your LinkedIn](https://linkedin.com/in/your-linkedin)
-- 🧑‍💻 Dev.to: [@YourDevTo](https://dev.to/yourusername)
-
-## 🚀 Skills & Technologies
-
-- **Programming Languages**: Python, JavaScript, C++, Java (or list other languages you're familiar with)
-- **Frameworks & Libraries**: React, Node.js, Flask, Django (or list the frameworks/libraries you're using)
-- **Tools**: Git, Docker, Kubernetes, VS Code (or any tools you use)
-- **Databases**: PostgreSQL, MongoDB, MySQL (or list databases you’re familiar with)
-
-## 📈 GitHub Stats
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&hide_title=true&count_private=true)
-
-## ⚡ Fun Facts
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:akshaykumarkkl003@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/ak_sh._ay._/)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/akshay-kumar-p-bb314528b) 
 
 
 
-Feel free to explore my repositories and reach out if you're interested in collaborating or just want to chat about tech! 😊
+## 💢 Status
+
+<!-- ## 🛠️ My favorite tools -->
+
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![MySql](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+
+
+ </br>
+ <img align="right" alt="coding" width= "400" src="https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif" >
+</br>
