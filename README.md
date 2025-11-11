@@ -1,40 +1,35 @@
-<h1 align="center">
- Hii..
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
- I'am Akshay
-<h3 align="left">🌐 Connect with me 👇</h3>
+👋 Hey, I'm Akshay
+Code. Create. Innovate.
+Turning ideas into elegant solutions, one line at a time.
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:akshaykumarkkl003@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/ak_sh._ay._/)
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akshay1024/) 
+🚀 Quick Glance
+Frontend	Backend	Tools & Others
+https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black	https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white	https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white
+https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black	https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white	https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black
+https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white	https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white	https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white
+https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white	https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white	https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white
+📊 GitHub Analytics
+<div align="center">
+https://github-readme-stats.vercel.app/api?username=akshaykkl&show_icons=true&theme=radical&hide_border=true
+https://github-readme-streak-stats.herokuapp.com/?user=akshaykkl&theme=radical&hide_border=true
 
+</div>
+🏆 Achievements
+<div align="center">
+https://github-profile-trophy.vercel.app/?username=akshaykkl&theme=onedark&row=2&column=4
 
+</div>
+📫 Let's Connect
+<div align="center">
+https://img.shields.io/badge/%F0%9F%93%A7_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white
+https://img.shields.io/badge/%F0%9F%92%BC_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
+https://img.shields.io/badge/%F0%9F%93%B7_Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white
 
-## 💢 Status
+</div>
+<div align="center">
+⚡ Fun Fact
+When I'm not coding, you'll probably find me exploring new tech or debugging the universe.
 
-<!-- ## 🛠️ My favorite tools -->
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![MySql](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+Thanks for stopping by! ✨
 
-
-
-
-
-
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akshaykkl" alt="akshaykkl" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
+</div>
